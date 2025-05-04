@@ -1,5 +1,3 @@
-Developed by Helios
-
 ## Twitter Monitor v1
 
 
